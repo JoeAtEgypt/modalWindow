@@ -1,4 +1,4 @@
-# (Modal Window)[ https://joeategypt.github.io/modalWindow/] 🪟
+# [Modal Window](https://joeategypt.github.io/modalWindow/) 🪟
 
 This project demonstrates a modal window component with HTML, CSS, and JavaScript. The modal window can be triggered to appear and disappear, showcasing basic modal interactivity.
 
